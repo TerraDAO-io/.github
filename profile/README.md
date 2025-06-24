@@ -59,7 +59,4 @@ For urgent access requests, press inquiries, or collaboration proposals, please 
 **Last Updated:** June 23, 2025
 ```
 
----
-
-Let me know if you'd like this exported as a `.md` file, added to a `README.md`, or localized into another language (e.g., Spanish for Latin American producers).
 
