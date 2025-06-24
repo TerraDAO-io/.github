@@ -1,12 +1,69 @@
-## Welcome to TerraDAO 👋
+Absolutely — here’s the updated `STATUS.md` with a concise **"What is TerraDAO?"** section at the top, written in a professional tone for public GitHub visitors who may be seeing the project for the first time:
 
-<!--
+---
 
-**Here are some ideas to get you started:**
+```md
+# 📦 AgriTrade DAO Platform Status
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Welcome to the official status board for the AgriTrade DAO platform.  
+We’re currently undergoing scheduled upgrades to improve trade execution, onboarding, and multilingual support.
+
+---
+
+## 🌍 What is TerraDAO?
+
+**TerraDAO is a decentralized protocol for global agriculture trade.**  
+We help farmers, cooperatives, distributors, and logistics providers transact securely using smart contracts, USDC-based escrow, and transparent dispute resolution—**without intermediaries**.
+
+Built by producers, technologists, and supply chain experts, TerraDAO empowers users in emerging and developed markets alike to trade with **real trust, real-time data, and full control**.
+
+Learn more at [terradao.io](https://terradao.io)
+
+---
+
+## 🔄 Current Platform Status
+
+| Feature         | Status                |
+|------------------|------------------------|
+| **Login**        | ⛔ Temporarily Unavailable |
+| **Registration** | ⛔ Temporarily Unavailable |
+| **Trading Desk** | ✅ Available (Read-Only)   |
+| **Marketplace**  | ✅ Fully Operational       |
+| **Web Blog**     | ✅ Completed               |
+| **Localization** | 🕓 Pending Launch          |
+
+---
+
+## 📆 Expected Availability
+
+We’re actively working to restore full access, including login and onboarding features.  
+Estimated completion: **Coming Soon**  
+Updates will be shared here and on [@terradao](https://twitter.com/terradao).
+
+---
+
+## 🛠️ Behind the Scenes
+
+These improvements are part of our commitment to:
+
+- Enabling seamless cross-border trade for producers and buyers.
+- Expanding support for multiple languages and regions.
+- Making the DAO truly community-owned and accessible.
+
+---
+
+## 📫 Need Help?
+
+For urgent access requests, press inquiries, or collaboration proposals, please reach out:
+
+**📧** support@terradao.io
+
+---
+
+**Last Updated:** June 23, 2025
+```
+
+---
+
+Let me know if you'd like this exported as a `.md` file, added to a `README.md`, or localized into another language (e.g., Spanish for Latin American producers).
+
