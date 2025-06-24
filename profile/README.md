@@ -1,5 +1,4 @@
 
-```md
 # 📦 AgriTrade DAO Platform Status
 
 Welcome to the official status board for the AgriTrade DAO platform.  
