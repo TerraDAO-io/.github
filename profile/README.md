@@ -1,6 +1,3 @@
-Absolutely — here’s the updated `STATUS.md` with a concise **"What is TerraDAO?"** section at the top, written in a professional tone for public GitHub visitors who may be seeing the project for the first time:
-
----
 
 ```md
 # 📦 AgriTrade DAO Platform Status
@@ -29,7 +26,7 @@ Learn more at [terradao.io](https://terradao.io)
 | **Registration** | ⛔ Temporarily Unavailable |
 | **Trading Desk** | ✅ Available (Read-Only)   |
 | **Marketplace**  | ✅ Fully Operational       |
-| **Web Blog**     | ✅ Completed               |
+| **Web Blog**     | ✅ processing               |
 | **Localization** | 🕓 Pending Launch          |
 
 ---
