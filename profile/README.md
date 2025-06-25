@@ -26,7 +26,7 @@ Learn more at [terradao.io](https://terradao.io)
 | **Trading Desk** | ✅ Available (Read-Only)   |
 | **Marketplace**  | ✅ Fully Operational       |
 | **Web Blog**     | ✅ processing               |
-| **Localization** | 🕓 Pending Launch          |
+| **Localization** | ✅ processing         |
 
 ---
 
