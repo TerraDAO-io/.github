@@ -4,6 +4,9 @@
 Welcome to the official status board for the AgriTrade DAO platform.  
 We’re currently undergoing scheduled upgrades to improve trade execution, onboarding, and multilingual support.
 
+Not affiliated with Terra (LUNA) or Terraform Labs. Built on Solana.
+
+
 ---
 
 ## 🌍 What is TerraDAO?
